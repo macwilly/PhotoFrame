@@ -24,6 +24,14 @@
                                         <rect key="frame" x="23" y="51" width="240" height="450"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                     </imageView>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="I find your lack of faith disturbing." textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1bS-HE-mhr">
+                                        <rect key="frame" x="8" y="523" width="269" height="22"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <fontDescription key="fontDescription" type="italicSystem" pointSize="18"/>
+                                        <color key="textColor" red="0.93532067539999997" green="0.48502242569999998" blue="0.54863470790000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <color key="highlightedColor" red="0.084953858679999994" green="0.01352063899" blue="0.013120557580000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <color key="shadowColor" red="0.084953858679999994" green="0.01352063899" blue="0.013120557580000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    </label>
                                 </subviews>
                                 <color key="backgroundColor" red="0.13372401601260475" green="0.13372401601260475" blue="0.13372401601260475" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                             </view>

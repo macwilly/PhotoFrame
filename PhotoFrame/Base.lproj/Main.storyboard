@@ -17,11 +17,11 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="RSL-cU-xoP">
-                                <rect key="frame" x="64" y="120" width="287" height="656"/>
+                                <rect key="frame" x="64" y="172" width="287" height="553"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <subviews>
                                     <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="vader" translatesAutoresizingMaskIntoConstraints="NO" id="iho-3j-Q2K">
-                                        <rect key="frame" x="23" y="103" width="240" height="450"/>
+                                        <rect key="frame" x="23" y="51" width="240" height="450"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                     </imageView>
                                 </subviews>
